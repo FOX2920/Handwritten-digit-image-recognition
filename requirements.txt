@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
 numpy
-tensorflow
-keras
+Keras
 Pillow
